@@ -2,12 +2,12 @@ import React from 'react';
 import logo from './logo.svg';
 import './App.css';
 
-function App() {
+function Daniel() {
   return (
     <div className="App">
       <header className="App-header">
         <img src={logo} className="App-logo" alt="logo" />
-          Hola sumerce
+          I'm Daniel Guecha 👨🏽‍💻
       </header>
     </div>
   );
